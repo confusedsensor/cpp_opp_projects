@@ -1,0 +1,7 @@
+/out/
+/dist/
+/.vs/
+/CMakeUserPresets.json
+/.vscode/
+/scripts/
+/.vsconfig
